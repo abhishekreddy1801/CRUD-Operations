@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abhishek\\Desktop\\CRUD\\CRUDPractice\\CRUDPractice\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Abhishek\\Desktop\\CRUD\\CRUDPractice\\CRUDPractice\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abhishek\\Desktop\\CRUD\\CRUDPractice\\CRUDPractice\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abhishek\\Desktop\\CRUD\\CRUDPractice\\CRUDPractice\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abhishek\\Desktop\\CRUD\\CRUDPractice\\CRUDPractice\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDPractice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDPractice.props",
+      "PackagePath": "build\\CRUDPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDPractice.props",
+      "PackagePath": "buildMultiTargeting\\CRUDPractice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDPractice.props",
+      "PackagePath": "buildTransitive\\CRUDPractice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
